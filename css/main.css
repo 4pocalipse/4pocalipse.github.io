@@ -1,0 +1,28 @@
+body {
+    color: #800000;
+    background-image: url("../img/bg.gif");
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    color: #0000ee;
+}
+
+.buttons1 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.content {
+    display: block;
+    text-align: center;
+    word-break: break-all;
+}
+
+.footer {
+    margin-top: 25px;
+}
