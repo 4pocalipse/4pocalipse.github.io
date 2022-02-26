@@ -23,6 +23,10 @@ a {
     word-break: break-all;
 }
 
+.banners {
+	margin-top: 25px;
+}
+
 .footer {
     margin-top: 25px;
 }
